@@ -7,3 +7,6 @@ Line follower robots, though often considered beginner-level projects, have prac
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ Here is the schematic design of our project:
+
+ <img width="995" alt="Image" src="https://github.com/user-attachments/assets/eaf356b7-5c82-4f1d-9827-9cea09b450a1" />
